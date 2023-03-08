@@ -1,0 +1,80 @@
+{
+	"object": "list",
+	"beers": [
+		{
+			"name": "IPAIot",
+			"type": "NE TIPA 10%",
+			"filename": "Beer01.jpg"
+		},
+		{
+			"name": "Mr Kitty",
+			"type": "NE TIPA 10%",
+			"filename": "Beer02.jpg"
+		},
+		{
+			"name": "Actually I Do Speak Spanish",
+			"type": "NE TIPA 10%",
+			"filename": "Beer03.jpg"
+		},
+		{
+			"name": "Dry Hop The Hazy",
+			"type": "NE DIPA 8%",
+			"filename": "Beer04.jpg"
+		},
+		{
+			"name": "ERMAHGERD SLURSHY",
+			"type": "Pineapple Orange Cooler 6.5%",
+			"filename": "Beer05.jpg"
+		},
+		{
+			"name": "Multiply Your Undivided Attention",
+			"type": "NE TIPA 10%",
+			"filename": "Beer06.jpg"
+		},
+		{
+			"name": "Michelada",
+			"type": "Hoppy Pilsner",
+			"filename": "Beer07.jpg"
+		},
+		{
+			"name": "PowerBanger",
+			"type": "West Coast TIPA 10%",
+			"filename": "Beer08.jpg"
+		},
+		{
+			"name": "Welcome to Lagertown",
+			"type": "Hoppy Lager 5.8%",
+			"filename": "Beer09.jpg"
+		},
+		{
+			"name": "ERMAHGERD SLURSHY",
+			"type": "Red Fruit Roll  6.5%",
+			"filename": "Beer10.jpg"
+		},
+		{
+			"name": "Retirement League",
+			"type": "NE DIPA 8%",
+			"filename": "Beer11.jpg"
+		},
+		{
+			"name": "The Phantasm Is Real",
+			"type": "NE TIPA 8%",
+			"filename": "Beer12.jpg"
+		},
+		{
+			"name": "Football In America",
+			"type": "NE DIPA 8%",
+			"filename": "Beer13.jpg"
+		},
+		{
+			"name": "Reverse Glory Hole",
+			"type": "NE TIPA 10%",
+			"filename": "Beer14.jpg"
+		},
+		{
+			"name": "Drunk In A Wall",
+			"type": "NE TIPA 10%",
+			"filename": "Beer15.jpg"
+		}
+	]
+}
